@@ -10,4 +10,4 @@ jobs:
         with:
           labels: sv2
           artifact-id: 32969ffa-2fa0-461a-b039-811a95ee5635
-          target-environment: Pre-Prod
+          target-environment: Pre-Prod 
