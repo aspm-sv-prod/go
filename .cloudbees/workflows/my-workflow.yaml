@@ -9,5 +9,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: sv2
-          artifact-id: 378b9ee3-bd3c-4243-89ea-84d886be27ca
+          artifact-id: 378b9ee3-bd3c-4243-89ea-84d886be27ca 
           target-environment: Pre-Prod 
